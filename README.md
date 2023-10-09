@@ -15,4 +15,4 @@ join in the directory
 cat ssh/id_ed25519.pub
 
 ### step 4
-get the key and put it in the github 
+get the key and put it in the github on settings -> access -> SSH and GPG keys -> New SSH key
